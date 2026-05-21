@@ -142,3 +142,11 @@ This project is released under the MIT License. See the LICENSE file for additio
 ## Contact
 
 For any queries or contributions, please contact the project maintainer or open an issue on the repository.
+
+## Portfolio Case Study
+
+This repository is part of Jaron Rosenau's implementation, developer-support, and integration engineering portfolio. The public case study summarizes the problem, delivery scope, architecture, and operational result.
+
+- Case study: [LowBatteryChirperAndroid implementation case study](https://rosenau.info/projects/n3OPMMLTsKxr3JRxNe1v)
+- Full portfolio: [Jaron Rosenau](https://rosenau.info)
+- Summary: Android battery-monitoring utility with a narrow support-oriented product surface.
